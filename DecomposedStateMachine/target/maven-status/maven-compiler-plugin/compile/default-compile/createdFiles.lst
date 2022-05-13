@@ -1,0 +1,10 @@
+com\example\ppe\S3Service.class
+com\example\ppe\Gear.class
+com\example\ppe\Handler3.class
+com\example\ppe\Handler.class
+com\example\ppe\SendEmail.class
+com\example\ppe\DynamoDBService.class
+com\example\ppe\PPEHandler.class
+com\example\ppe\Handler2.class
+com\example\ppe\AnalyzePhotos.class
+com\example\ppe\GearItem.class
